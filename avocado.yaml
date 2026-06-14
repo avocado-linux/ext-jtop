@@ -5,7 +5,7 @@ supported_targets:
 
 extensions:
   avocado-ext-jtop:
-    version: 2024.1.0
+    version: 0.1.0
     release: r0
     summary: Jetson system monitoring via jtop (jetson-stats)
     description: Jetson system monitoring via jtop (jetson-stats)
